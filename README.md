@@ -1,9 +1,9 @@
 <h1>Frog Leap Game Documentation</h1>
 
-**Problem statement**
+<h2>Problem statement</h2>
 
 Create famous 'Frog leap' puzzle game. Try completing the game before starting to get an idea
-about its working. [Enjoy Playing 🎮](http://www.example.com)
+about its working. [Enjoy Playing 🎮](https://colab.research.google.com/drive/1G_q-JRPMmvIVmIBq1z73755E3Iv9aEo9?usp=sharing)
  the Frog Leap game!
 
 **Rules**

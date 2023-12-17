@@ -1,10 +1,10 @@
-**Frog Leap Game Documentation**
+<h1>Frog Leap Game Documentation</h1>
 
 **Problem statement**
 
-Create famous \'Frog leap\' puzzle game. Try completing the game
-before starting to get an idea about its working. 🎮 the Frog Leap
-game!
+Create famous 'Frog leap' puzzle game. Try completing the game before starting to get an idea
+about its working. [Enjoy Playing 🎮](http://www.example.com)
+ the Frog Leap game!
 
 **Rules**
 
